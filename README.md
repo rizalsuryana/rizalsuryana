@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hallo 👋
+### Selamat Datang Di Profile Github Saya
+<img src="https://github.com/rizalsuryana/rizalsuryana/blob/main/Rizal%20Suryana.png" atl =" Banner Rizal Suryana Github">
+
+- Saya adalah Seorang Mahasiwa Ilmu Komputer semester 7 di Universitas Pertamina
+- Saya Sangat antusias untuk belajar dan mengembangkan skill saya di bidang Pemograman Web
+
 
 <!--
 **rizalsuryana/rizalsuryana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
