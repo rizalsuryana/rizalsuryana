@@ -4,7 +4,7 @@
 - 🌱 Mahasiwa Ilmu Komputer semester 7 di Universitas Pertamina
 - ⚡ Antusias untuk belajar dan mengembangkan skill saya di bidang Pemograman Web
 - 🔭 Sedang Mengikuti Kampus Merdeka Front-End Back-End Developer
-- 👯 Hubungi saya di : <a href="https://instagram.com/zayfalcon">Instagram</a> | <a href="/https://www.linkedin.com/in/rizalsuryana/">LinkedIn</a>
+- 👯 Hubungi saya di : <a href="https://instagram.com/zayfalcon">Instagram</a> | <a href="https://www.linkedin.com/in/rizalsuryana/">LinkedIn</a>
 
 <!--
 **rizalsuryana/rizalsuryana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
