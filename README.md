@@ -1,17 +1,17 @@
-### Hallo 👋
-### Selamat Datang Di Profile Github Saya
-<img src="https://github.com/rizalsuryana/rizalsuryana/blob/main/Rizal%20Suryana.png" atl =" Banner Rizal Suryana Github">
+<h1 align="center">Hi 👋, Selamat Datang Di Profile Github Saya</h1>
+<img src="https://github.com/rizalsuryana/rizalsuryana/blob/main/Rizal%20Suryana.png" align="left" atl =" Banner Rizal Suryana Github">
 
-- Saya adalah Seorang Mahasiwa Ilmu Komputer semester 7 di Universitas Pertamina
-- Saya Sangat antusias untuk belajar dan mengembangkan skill saya di bidang Pemograman Web
-
+- 🌱 Mahasiwa Ilmu Komputer semester 7 di Universitas Pertamina
+- ⚡ Antusias untuk belajar dan mengembangkan skill saya di bidang Pemograman Web
+- 🔭 Sedang Mengikuti Kampus Merdeka Front-End Back-End Developer
+- 👯 Hubungi saya di : <a href="https://instagram.com/zayfalcon">Instagram</a> | <a href="/https://www.linkedin.com/in/rizalsuryana/">LinkedIn</a>
 
 <!--
 **rizalsuryana/rizalsuryana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m Study working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
