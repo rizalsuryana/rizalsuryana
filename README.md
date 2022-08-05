@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, Welcome to My Github</h1>
+<h1 align="center">Hi 👋, Welcome to My Github</h1>  
 
-<img src="https://github.com/rizalsuryana/rizalsuryana/blob/main/Rizal%20Suryana.png" align="left" atl =" Banner Rizal Suryana Github">
+<img align="center" src="https://github.com/rizalsuryana/rizalsuryana/blob/main/Rizal%20Suryana.png" atl =" Banner Rizal Suryana Github">
 
-- 🌱 Mahasiwa Ilmu Komputer semester 7 di Universitas Pertamina
-- ⚡ Antusias untuk belajar dan mengembangkan skill saya di bidang Pemograman Web
-- 🔭 Sedang Mengikuti Kampus Merdeka Front-End Back-End Developer
-- 👯 Hubungi saya di : <a href="https://instagram.com/zayfalcon">Instagram</a> | <a href="https://www.linkedin.com/in/rizalsuryana/">LinkedIn</a>
+- 🌱 Computer Science 19 | Pertamina University
+- ⚡ Area of interest : HTML, CSS, Java, JavaScript, php, UI/UX, Technology.
+- 🔭 I’m currently learning "Front-End and Back-End Web Developer" [ Kampus Merdeka | Dicoding ]
+- 👯 Find Me on : [ <a href="https://instagram.com/zayfalcon">Instagram</a> ] | [ <a href="https://www.linkedin.com/in/rizalsuryana/">LinkedIn</a> ]
 
 <h1></>
 
