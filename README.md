@@ -3,8 +3,8 @@
 <img align="center" src="https://github.com/rizalsuryana/rizalsuryana/blob/main/Rizal%20Suryana.png" atl =" Banner Rizal Suryana Github">
 
 - 🌱 Computer Science 19 | Pertamina University
-- ⚡ Area of interest : HTML, CSS, Java, JavaScript, php, UI/UX, Technology.
-- 🔭 I’m currently learning "Front-End and Back-End Web Developer" [ Kampus Merdeka | Dicoding ]
+- ⚡ Area of interest : HTML, CSS, Java, JavaScript, PHP, UI/UX, Technology.
+- 🔭 I’m currently learning "Front-End and Back-End Web Developer" [ <a href="https://dicoding.com">Dicoding</a> | <a href="https://kampusmerdeka.kemdikbud.go.id">Kampus Merdeka</a>-SIB ]
 - 👯 Find Me on : [ <a href="https://instagram.com/zayfalcon">Instagram</a> ] | [ <a href="https://www.linkedin.com/in/rizalsuryana/">LinkedIn</a> ]
 
 <h1></>
