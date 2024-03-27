@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, Welcome to My GitHub</h1>  
-  
-  <h3> About Me </h3>
 <!--
 <img align="center" src="https://github.com/rizalsuryana/rizalsuryana/blob/main/Rizal%20Suryana.png" width="100%" atl =" Banner Rizal Suryana Github"/>
 -->
@@ -13,6 +11,7 @@
 █░░░░░░░░██░░╙▀███▄░██████████████████████████▌╔▄█▄▒██░▄▄▄▄╫█████
 █░░░░░▄▄▄██░╓█▄▄▄██░██████████████████████████▌▓████░░█████║█████
 █░░░░░╙▀▀▀░░░▀▀▀▀▀░░███████████████████████████Å▀▀█▄██▄▒▀▀▒██████<br>
+  <h3> About Me </h3> <br>
 - 🌱 Fresh Graduate Computer Science | Pertamina University <br>
 - ⚡ Area of interest : HTML, CSS, JavaScript, ReacJS, FrontEnd dev, Technology. <br>
 - 🔭 I’m currently learning "React Developer" [ <a href="https://dicoding.com">Dicoding</a> ] <br>
