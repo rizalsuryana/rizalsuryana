@@ -11,13 +11,13 @@
 █░░░░░░░░██░░╙▀███▄░██████████████████████████▌╔▄█▄▒██░▄▄▄▄╫█████
 █░░░░░▄▄▄██░╓█▄▄▄██░██████████████████████████▌▓████░░█████║█████
 █░░░░░╙▀▀▀░░░▀▀▀▀▀░░███████████████████████████Å▀▀█▄██▄▒▀▀▒██████ -->
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
 
   <h3> About Me </h3>
 - 🌱 Fresh Graduate Computer Science | Pertamina University <br>
 - ⚡ Area of interest : HTML, CSS, JavaScript, ReacJS, FrontEnd dev, Technology. <br>
 - 🔭 I’m currently learning "React Developer" [ <a href="https://dicoding.com">Dicoding</a> ] <br>
-- 👯 Find Me on : [ <a href="https://instagram.com/zayfalcon">Instagram</a> ] | [ <a href="https://www.linkedin.com/in/rizalsuryana/">LinkedIn</a> ]  
+<!-- - 👯 Find Me on : [ <a href="https://instagram.com/zayfalcon">Instagram</a> ] | [ <a href="https://www.linkedin.com/in/rizalsuryana/">LinkedIn</a> ]   -->
   
 <h3> GitHub Statistic </h3>
 <p align="left">
