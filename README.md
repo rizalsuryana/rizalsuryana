@@ -1,4 +1,3 @@
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h1 align="center">Hi 👋, Welcome to My GitHub</h1>  
 <!--
 <img align="center" src="https://github.com/rizalsuryana/rizalsuryana/blob/main/Rizal%20Suryana.png" width="100%" atl =" Banner Rizal Suryana Github"/>
@@ -12,6 +11,8 @@
 █░░░░░░░░██░░╙▀███▄░██████████████████████████▌╔▄█▄▒██░▄▄▄▄╫█████
 █░░░░░▄▄▄██░╓█▄▄▄██░██████████████████████████▌▓████░░█████║█████
 █░░░░░╙▀▀▀░░░▀▀▀▀▀░░███████████████████████████Å▀▀█▄██▄▒▀▀▒██████ -->
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
   <h3> About Me </h3>
 - 🌱 Fresh Graduate Computer Science | Pertamina University <br>
 - ⚡ Area of interest : HTML, CSS, JavaScript, ReacJS, FrontEnd dev, Technology. <br>
