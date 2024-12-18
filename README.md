@@ -18,18 +18,19 @@
 - ⚡ Area of interest : HTML, CSS, JavaScript, ReacJS, FrontEnd dev, Technology. <br>
 - 🔭 I’m currently learning "React Developer" [ <a href="https://dicoding.com">Dicoding</a> ] <br>
 <!-- - 👯 Find Me on : [ <a href="https://instagram.com/zayfalcon">Instagram</a> ] | [ <a href="https://www.linkedin.com/in/rizalsuryana/">LinkedIn</a> ]   -->
+## :books: Ongoing Learning 
+<div align="center">
+  <img src=https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge alt=Python style="margin-bottom: 5px;" />
+<!--   <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white alt=Javascript style="margin-bottom: 5px;" /> -->
+  <img src=https://img.shields.io/badge/React_Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt=PHP style="margin-bottom: 5px;" />
+</div>
 <div>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  title="Flutter" **alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart" **alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" title="Svelte" **alt="Git" width="40" height="40" /> -->
-          
+        
 </div>
   
 <h3> GitHub Statistic </h3>
