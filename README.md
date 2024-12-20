@@ -33,3 +33,15 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizalsuryana&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+- 📚 **Currently learning React Fundamentals**:  
+  I'm diving deep into React to build dynamic and interactive web applications. Check out my progress and repository here:  
+  [React Fundamental](https://github.com/rizalsuryana/React-Fundamental)
+
+- 🚀 **Project**:  
+  Here's a project where I applied React fundamentals to build something cool. Check it out here:  
+  [Proyek React Fundamental](https://github.com/rizalsuryana/Proyek-React-Fundamental)
+
+- 💬 **Let's Connect**:  
+  If you're into React, JavaScript, or just tech in general, feel free to reach out! I’m always up for a chat and sharing ideas.  
+  You can reach me via email at [itrizalsuryana@gmail.com](mailto:itrizalsuryana@gmail.com).
