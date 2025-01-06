@@ -38,7 +38,7 @@
 - 💬 **Let's Connect**:  
   If you're into React, JavaScript, or just tech in general, feel free to reach out! I’m always up for a chat and sharing ideas.  
   You can reach me via email at [itrizalsuryana@gmail.com](mailto:itrizalsuryana@gmail.com).
-
+<!--
 ## GitHub Stats
 <p align="left">
 <a href="https://github.com/rizalsuryana">
@@ -46,3 +46,4 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizalsuryana&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
