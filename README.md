@@ -40,14 +40,14 @@
   If you're into React, JavaScript, or just tech in general, feel free to reach out! I’m always up for a chat and sharing ideas. .--> 
   You can reach me via email at [itrizalsuryana@gmail.com](mailto:itrizalsuryana@gmail.com)
 
-## GitHub Stats
+<!-- ## GitHub Stats
 <p align="left">
 <a href="https://github.com/rizalsuryana">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizalsuryana&show_icons=true&theme=algolia&exclude_repo=Praktikum-Machine-Learning&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizalsuryana&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+-->
 
 
 <!-- 01001001 00100000 01100001 01101101 00100000 01010000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01100101 01110010 -->
