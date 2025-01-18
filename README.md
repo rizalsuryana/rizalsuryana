@@ -25,7 +25,9 @@
   </div>
 
 - 💬 **Let's Connect**:  
-  Feel free to reach out via email at [itrizalsuryana@gmail.com](mailto:itrizalsuryana@gmail.com).
+ [![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itrizalsuryana@gmail.com) [![itrizalsuryana@gmail.com](https://img.shields.io/badge/itrizalsuryana%40gmail.com-0073e6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itrizalsuryana@gmail.com)
+
+
 
 ---
 
