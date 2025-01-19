@@ -51,3 +51,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalsuryana&hide=jupyter%20notebook,blade,php&layout=compact&theme=highcontrast&hide_border=true&bg_color=00000000"/>
   </a>
 </div>
+<!--
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizalsuryana&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+-->
