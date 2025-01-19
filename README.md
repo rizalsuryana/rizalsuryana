@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="font-family:'Anonymous Pro', monospace;">
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=22&duration=4000&pause=800&color=00FFAB&center=true&vCenter=true&width=450&lines=React+Web+Developer;Front-End+Specialist;Passionate+Lifelong+Learner" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=22&duration=4000&pause=800&color=00FFAB&center=true&vCenter=true&width=450&lines=React+Web+Developer;Front-End+Enthusiast;Passionate+Lifelong+Learner" alt="Typing SVG">
 </p>
 
 ---
