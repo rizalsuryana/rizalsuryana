@@ -28,7 +28,7 @@
 ---
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" width="33"> **Let's Connect**:  
-  [![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itrizalsuryana@gmail.com)[![itrizalsuryana@gmail.com](https://img.shields.io/badge/itrizalsuryana%40gmail.com-0073e6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itrizalsuryana@gmail.com)
+[![itrizalsuryana@gmail.com](https://img.shields.io/badge/itrizalsuryana%40gmail.com-0073e6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itrizalsuryana@gmail.com)
 
 ---
 
