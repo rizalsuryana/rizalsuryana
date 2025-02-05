@@ -45,10 +45,10 @@
 ---
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> GitHub Stats
-<div align="center" style="font-family:'Anonymous Pro', monospace;">
+<div align="left" style="font-family:'Anonymous Pro', monospace;">
   <a href="https://github.com/rizalsuryana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizalsuryana&rank_icon=github&hide=stars&count_private=true&theme=highcontrast&hide_border=true&bg_color=00000000"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalsuryana&hide=jupyter%20notebook,blade,php&layout=compact&theme=highcontrast&hide_border=true&bg_color=00000000"/>
+    <img height="144rem" src="https://github-readme-stats.vercel.app/api?username=rizalsuryana&rank_icon=github&hide=stars&count_private=true&theme=highcontrast&hide_border=true&bg_color=00000000"/>
+    <img height="144rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalsuryana&hide=jupyter%20notebook,blade,php&layout=compact&theme=highcontrast&hide_border=true&bg_color=00000000"/>
   </a>
 </div>
 <!--
