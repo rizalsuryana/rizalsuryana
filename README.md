@@ -49,6 +49,10 @@
     <img src="https://img.shields.io/badge/rizalsuryana.dev@gmail.com-0073e6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+<sub>
+<sub>Please Hire Me :'(
+</sub>
+</sub>
 
 ---
 
@@ -62,3 +66,4 @@
 <!--
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizalsuryana&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
 -->
+
