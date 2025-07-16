@@ -60,7 +60,7 @@
 <div align="left" style="font-family:'Anonymous Pro', monospace;">
   <a href="https://github.com/rizalsuryana">
     <img height="144rem" src="https://github-readme-stats.vercel.app/api?username=rizalsuryana&rank_icon=github&hide=stars&count_private=true&theme=highcontrast&hide_border=true&bg_color=00000000"/>
-    <img height="144rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalsuryana&hide=jupyter%20notebook,&layout=compact&theme=highcontrast&hide_border=true&bg_color=00000000"/>
+    <img height="144rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalsuryana&hide=jupyter%20notebook,CSS,HTML,SCSS,shell,dockerfile,java&layout=compact&theme=highcontrast&hide_border=true&bg_color=00000000"/>
   </a>
 </div>
 <!--
