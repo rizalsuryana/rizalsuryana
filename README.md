@@ -7,7 +7,7 @@
 </p>
 ------>
 <p align="center" style="font-family:'Anonymous Pro', monospace;">
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=22&duration=4000&pause=800&color=00FFAB&center=true&vCenter=true&width=500&lines=Java;JavaScript;React;React+Native" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=22&duration=4000&pause=800&color=00FFAB&center=true&vCenter=true&width=500&lines=Java;JavaScript;TypeScript;React;React+Native" alt="Typing SVG">
 </p>
 
 ---
