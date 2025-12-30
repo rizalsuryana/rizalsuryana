@@ -61,7 +61,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizalsuryana&theme=radical" alt="GitHub Profile Summary"/>
   </a>
   <a href="https://github.com/rizalsuryana">
-    <img height="180em" src="https://streak-stats.demolab.com?user=rizalsuryana&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img width="350em" height="180em" src="https://streak-stats.demolab.com?user=rizalsuryana&theme=radical&hide_border=true" alt="GitHub Streak"/>
   </a>
-<a href="https://github.com/rizalsuryana"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizalsuryana&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=php,blade,jupyter%20notebook,css,html,python,c%2B%2B" alt="Top Languages"/> </a>
+<a href="https://github.com/rizalsuryana"> <img width="350em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizalsuryana&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=php,blade,jupyter%20notebook,css,html,python,c%2B%2B" alt="Top Languages"/> </a>
 </div>
