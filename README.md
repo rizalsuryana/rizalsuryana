@@ -1,9 +1,10 @@
 <h1 align="center" style="font-family:'Anonymous Pro', monospace;">
-  Hi, I'm Rizal Suryana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="40">
+  Hi, I'm Rizal Suryana 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="40">
 </h1>
 
 <p align="center" style="font-family:'Anonymous Pro', monospace;">
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=22&duration=4000&pause=800&color=00FFAB&center=true&vCenter=true&width=500&lines=Java,+Springboot;TypeScript,+JavaScript;React,+React+Native" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=22&duration=4000&pause=800&color=FF3060&center=true&vCenter=true&width=500&lines=Java,+Springboot;TypeScript,+JavaScript;React,+React+Native;PostgreSQL" alt="Typing SVG">
 </p>
 
 ---
@@ -45,15 +46,12 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"> Let's Connect!
 <p align="left" style="font-family:'Anonymous Pro', monospace;">
   <a href="mailto:rizalsuryana.dev@gmail.com">
-    <img src="https://img.shields.io/badge/rizalsuryana.dev@gmail.com-0073e6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-rizalsuryana.dev@gmail.com-FF3060?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <br/>
   <a href="https://t.me/rizalsuryana">
-    <img src="https://img.shields.io/badge/Telegram-rizalsuryana-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-rizalsuryana-FF3060?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-
-
 
 ---
 
@@ -63,12 +61,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizalsuryana&theme=radical" alt="GitHub Profile Summary"/>
   </a>
   <a href="https://github.com/rizalsuryana">
-    <img src="https://streak-stats.demolab.com?user=rizalsuryana&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=rizalsuryana&theme=radical&hide_border=true" alt="GitHub Streak"/>
   </a>
-  <a href="https://github.com/rizalsuryana">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizalsuryana&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
-  </a>
-  <a href="https://github.com/rizalsuryana">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalsuryana&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  </a>
+<a href="https://github.com/rizalsuryana"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizalsuryana&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=php,blade,jupyter%20notebook,css,html,python,c%2B%2B" alt="Top Languages"/> </a>
 </div>
