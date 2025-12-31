@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center" style="font-family:'Anonymous Pro', monospace;">
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=22&duration=4000&pause=800&color=FF3060&center=true&vCenter=true&width=500&lines=Java,+Springboot;TypeScript,+JavaScript;React,+React+Native;PostgreSQL" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=22&duration=4000&pause=800&color=F89820&center=true&vCenter=true&width=500&lines=Java,+Springboot;TypeScript,+JavaScript;React,+React+Native;PostgreSQL" alt="Typing SVG">
 </p>
 
 ---
@@ -46,10 +46,10 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"> Let's Connect!
 <p align="left" style="font-family:'Anonymous Pro', monospace;">
   <a href="mailto:rizalsuryana.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rizalsuryana.dev@gmail.com-FF3060?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-rizalsuryana.dev@gmail.com-F89820?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://t.me/rizalsuryana">
-    <img src="https://img.shields.io/badge/Telegram-rizalsuryana-FF3060?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-rizalsuryana-F89820?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
@@ -57,11 +57,20 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> GitHub Stats
 <div align="center">
-  <a href="https://github.com/rizalsuryana">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizalsuryana&theme=radical" alt="GitHub Profile Summary"/>
-  </a>
-  <a href="https://github.com/rizalsuryana">
-    <img width="350em" height="180em" src="https://streak-stats.demolab.com?user=rizalsuryana&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  </a>
-<a href="https://github.com/rizalsuryana"> <img width="350em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizalsuryana&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=php,blade,jupyter%20notebook,css,html,python,c%2B%2B" alt="Top Languages"/> </a>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/rizalsuryana">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizalsuryana&theme=radical" alt="GitHub Profile Summary"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rizalsuryana">
+          <img width="350em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizalsuryana&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=php,blade,jupyter%20notebook,css,html,python,c%2B%2B" alt="Top Languages"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
