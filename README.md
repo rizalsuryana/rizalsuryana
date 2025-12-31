@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center" style="font-family:'Anonymous Pro', monospace;">
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=22&duration=4000&pause=800&color=F89820&center=true&vCenter=true&width=500&lines=Java,+Springboot;TypeScript,+JavaScript;React,+React+Native;PostgreSQL" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=22&duration=4000&pause=800&color=F89820&center=true&vCenter=true&width=500&lines=Java,+Springboot;TypeScript,+JavaScript;React,+ReactNative;PostgreSQL" alt="Typing SVG">
 </p>
 
 ---
