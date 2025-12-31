@@ -54,7 +54,6 @@
 </p>
 
 ---
-
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> GitHub Stats
 <div align="center">
 
@@ -62,12 +61,12 @@
     <tr>
       <td>
         <a href="https://github.com/rizalsuryana">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizalsuryana&theme=radical" alt="GitHub Profile Summary"/>
+          <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizalsuryana&theme=radical" alt="GitHub Profile Summary"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/rizalsuryana">
-          <img width="350em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizalsuryana&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=php,blade,jupyter%20notebook,css,html,python,c%2B%2B" alt="Top Languages"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizalsuryana&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=php,blade,jupyter%20notebook,css,html,python,c%2B%2B" alt="Top Languages"/>
         </a>
       </td>
     </tr>
